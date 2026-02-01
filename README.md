@@ -37,10 +37,10 @@ python HoMM3_Hero_Portrait_Creator.py
 ```
 
 3. For each image:
-- frame the portrait
-- capture both sizes
-- choose an unused HoMM3 portrait code
-- files are saved automatically
+- Frame the portrait
+- Capture both sizes
+- Choose an unused HoMM3 portrait code
+- Files are saved automatically
 
 4. After the images have been created, paste the outputted `.pcx` files into the `Data/` subdirectory in the install folder of HoMM3.
 
