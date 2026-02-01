@@ -33,7 +33,7 @@ Heroes_Portraits/Originals/
 2. Run:
 
 ```bash
-python Hero_Portrait_Resizer.py
+python HoMM3_Hero_Portrait_Creator.py
 ```
 
 3. For each image:
