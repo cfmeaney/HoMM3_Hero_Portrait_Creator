@@ -9,7 +9,7 @@ It batch-processes images and saves:
 - Large portrait: 58×64
 - Small portrait: 48×32
 - PNG and PCX versions
-- Correct HoMM3 filenames (HplXXXX / HpsXXXX)
+- Correct HoMM3 filenames (Hpl###xx / Hps###xx)
 
 ## Folder Structure
 
