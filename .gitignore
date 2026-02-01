@@ -1,4 +1,7 @@
 venv/
 Heroes_Portraits/Originals/*
+!Heroes_Portraits/Originals/.gitkeep
 Heroes_Portraits/pcx_files/*
+!Heroes_Portraits/pcx_files/.gitkeep
 Heroes_Portraits/pixelated_portraits/*
+!Heroes_Portraits/pixelated_portraits/.gitkeep
